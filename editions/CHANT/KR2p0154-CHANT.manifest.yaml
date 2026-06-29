@@ -1,0 +1,33 @@
+canonical_identifier: bkk:krp/KR2p0154/CHANT/v1
+canonical_location: https://kanripo.org/bkk/KR2p0154/CHANT/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 忠信之道
+  identifiers:
+    krp: KR2p0154
+  tags:
+    kr-categories: KR2p
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0154.xml
+  edition:
+    short: CHANT
+assets:
+  parts:
+  - {seq: 1, filename: KR2p0154_001-CHANT.yaml, hash: 'sha256:2eaadda5c4f7d3428a273dc2c38c00d17dc17d99d17b5d271469ca953d947eab'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR2p0154_001-CHANT.markers.yaml, hash: 'sha256:24ae048b2f0bf58b9a5a8de5c4a2b4349a1c13e1b1477ec3cda4c9a9bd0b68ad'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR2p0154_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 268
+  label: 郭店楚簡十忠信之道
+  type: section
+  level: 1
+hash: sha256:1ed5f523bd2b2932d89e996437bf968c1718a8930916420f553526b335d7449a

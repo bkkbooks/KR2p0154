@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0154/chant/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 郭店楚簡十忠信之道不訛不慆忠之至也不欺弗智信之至也忠積則可親也信積則可信也忠信積而民弗親信者未之有也至忠如土化物而不伐至信如時畢至而不結忠人亡訛信人不背君子如此故不誑生不背死也太久而不渝忠之至也陶而睹常信之至也至忠亡訛不信不背夫此之謂此大忠不說大信不期不說而足養者地也不期而可遇者天也似天地也者忠信之謂此口惠而實弗從君子弗言尔心疏而貌親君子弗申䧇故行而爭悅民君子弗由也三者忠人弗作信人弗為也忠之為道也百工不楛而人養皆足信之為道也群物皆成而百善皆立君子其施也忠故蠻親附也其言䧇信故亶而可受也忠仁之實也信義之基也是故古之所以行乎蠻貉者如此也
+  hash: sha256:95595685ebf2296d9d9c1ad37cab93070b26df11238b6c01ed057f2c08cc116e
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0154_CHANT_001-1a.1-h}
+metadata:
+  title: 忠信之道
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0154.xml
+hash: sha256:2eaadda5c4f7d3428a273dc2c38c00d17dc17d99d17b5d271469ca953d947eab
