@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR2p0154_001.yaml, hash: 'sha256:7c31cb117a113784d2ec8c858d4d3f86b943fd879bc06517b29af9e0dffd451a'}
+  - {seq: 1, filename: KR2p0154_001.yaml, hash: 'sha256:2eaadda5c4f7d3428a273dc2c38c00d17dc17d99d17b5d271469ca953d947eab'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2p0154_001.markers.yaml, hash: 'sha256:0254bb7a650c718ad5f37ae29fc0aee8d9c22fcba0c9812a9f22c8d67ce74709'}
+  - {seq: 1, role: markers, filename: assets/KR2p0154_001.markers.yaml, hash: 'sha256:71d589faa027213bc8f6effcacee41d285dacb3b7039f4c3511c8193138ce5dc'}
 table_of_contents:
 - ref:
     seq: 1
@@ -30,7 +30,4 @@ table_of_contents:
   label: 郭店楚簡十忠信之道
   type: section
   level: 1
-hash: sha256:2c6774926b25c13a6407fd2f7a04181076a4393af352f0774687f14c84c8f8d0
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:74697b48abc63bfbe08d3c93a5e57e60005b24138c9404f3974d3acd95135fc5
