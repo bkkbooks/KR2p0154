@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR2p0154/v1
 canonical_location: https://kanripo.org/bkk/KR2p0154/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 忠信之道
   identifiers:
@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR2p0154_001.yaml, hash: 'sha256:2eaadda5c4f7d3428a273dc2c38c00d17dc17d99d17b5d271469ca953d947eab'}
+  - {seq: 1, filename: KR2p0154_001.yaml, hash: 'sha256:c8f85e661dabbcae5abe7eb0af12893c636519a665ae0bf00eee67cd212f2d4d'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2p0154_001.markers.yaml, hash: 'sha256:71d589faa027213bc8f6effcacee41d285dacb3b7039f4c3511c8193138ce5dc'}
+  - {seq: 1, role: markers, filename: assets/KR2p0154_001.markers.yaml, hash: 'sha256:add004ec48f8ca24445677d7c2a6b3795afb885a26d1d285e472a85bde29b813'}
 table_of_contents:
 - ref:
     seq: 1
@@ -30,4 +30,7 @@ table_of_contents:
   label: 郭店楚簡十忠信之道
   type: section
   level: 1
-hash: sha256:74697b48abc63bfbe08d3c93a5e57e60005b24138c9404f3974d3acd95135fc5
+hash: sha256:acf5dfdad839fe004a1d5345063b37402c68e40e7fac0127a31c130c712c5900
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
